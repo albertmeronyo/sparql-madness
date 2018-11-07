@@ -1,0 +1,2 @@
+# sparql-madness
+SPARQL madness
